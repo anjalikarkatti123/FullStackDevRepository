@@ -1,2 +1,0 @@
-# FullStackDevRepository
-Full Stack Development
